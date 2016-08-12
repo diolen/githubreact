@@ -1,3 +1,3 @@
 ## Install
-npm install
-webpack
+* npm install
+* webpack
